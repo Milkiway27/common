@@ -8,6 +8,7 @@
   WP Form&Report uses 54500 - 54600 }
 
 const
+	//stałych tyle że za glowe sie można chwycic
     meWPLabels = 52000;	{ basis	of ALL TWPResLabel }
 
     meFilter	  = 56501;
