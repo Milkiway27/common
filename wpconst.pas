@@ -9,6 +9,17 @@
 
 const
 	//stałych tyle że za glowe sie można chwycic
+	//
+	//
+	//
+	//UDALO SIĘ!S
+	//
+	//
+	//
+	//
+	//
+	
+	//
     meWPLabels = 52000;	{ basis	of ALL TWPResLabel }
 
     meFilter	  = 56501;
