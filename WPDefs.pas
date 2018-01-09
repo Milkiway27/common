@@ -2195,7 +2195,7 @@ var
     { meFilterALL }'Wszystkie pliki (*.*)|*.*',
 
     { meFilter }'RTF plik (*.rtf)|*.RTF|HTML plik (*.htm,*.html)|*.HTM;*.HTML|Plik tekstowy (*.txt)|*.TXT|Wszystkie pliki (*.*)|*.*',
-    { meUserCancel }'Czy chcesz przerwaæ operacjê?',
+    { meUserCancel }'Czy chcesz przerwaÃ¦ operacjÃª?',
     { meReady }'Gotowe',
     { meReading }'odzcyt ...',
     { meWriting }'zapis ...',
@@ -2206,20 +2206,20 @@ var
     { meRichText }'RICH',
     { mePlainText }'PLAIN',
     { meSysError }'Internal Error',
-    { meClearTabs }'Usun¹æ wszystkie tabstopy?',
+    { meClearTabs }'UsunÂ¹Ã¦ wszystkie tabstopy?',
     { meObjGraphicFilter }'Pliki graficzne (*.BMP,*.WMF)|*.BMP;*.WMF',
     { meObjGraphicFilterExt }'Pliki graficzne (*.BMP,*.WMF,*.JPG,*.GIF)|*.BMP;*.WMF;*.JPG;*.GIF',
     { meObjTextFilter }'Pliki tekstowe (*.TXT)|*.TXT',
     { meObjNotSupported }'Cannot use other objects than of type TWPObject.',
     { meObjGraphicNotLinked }'Graphic support was not linked. Please include unit WPEmOBJ to project.',
-    { meObjDelete }'Usuniêcie obiektu',
+    { meObjDelete }'UsuniÃªcie obiektu',
     { meObjInsert }'Wstawienie nowego obiektu',
-    { meSaveChangedText }'Zapisaæ zmiany?',
-    { meClearChangedText }'Anulowaæ zmiany?',
+    { meSaveChangedText }'ZapisaÃ¦ zmiany?',
+    { meClearChangedText }'AnulowaÃ¦ zmiany?',
 
-    { meCannotRenameFile }'Nie mo¿na zmieniæ nazwy pliku %s!',
-    { meErrorWriteToFile }'Nie mo¿na zapisaæ pliku %s!',
-    { meErrorReadingFile }'B³¹d podczas odczytu z pliku %s!',
+    { meCannotRenameFile }'Nie moÂ¿na zmieniÃ¦ nazwy pliku %s!',
+    { meErrorWriteToFile }'Nie moÂ¿na zapisaÃ¦ pliku %s!',
+    { meErrorReadingFile }'BÂ³Â¹d podczas odczytu z pliku %s!',
 
     { meRecursiveToolbarUsage }'property NextToolBar was used recursively',
     { meWrongScreenmode }'Wrong ScreenResMode in object ',
@@ -2257,14 +2257,14 @@ var
     { meutInsertHyperlink }'Insert Hyperlink',
     { meutInsertField }'Insert Field',
     {meDiaAlLeft, meDiaAlCenter,meDiaAlRight,meDiaAlJustified}
-    'Lewy', 'Œrodek', 'Prawy', 'Obustronnie',
+    'Lewy', 'ÂŒrodek', 'Prawy', 'Obustronnie',
     {meDiaYes, meDiaNo }'Tak', 'Nie',
     {meTkLeft, meTkCenter,meTkRight,meTkDecimal}
-    'Lewy', 'Prawy', 'Œrodek', 'Dziesiêtny',
+    'Lewy', 'Prawy', 'ÂŒrodek', 'DziesiÃªtny',
     {meSpacingMultiple, meSpacingAtLeast,meSpacingExact}
-    'wielokrotnie', 'przynajmniej', 'dok³adnie',
-    {mePaperCustom}'Rozmiar u¿ytkownika',
-    { meWrongFormat}'Plik ma z³y format!',
+    'wielokrotnie', 'przynajmniej', 'dokÂ³adnie',
+    {mePaperCustom}'Rozmiar uÂ¿ytkownika',
+    { meWrongFormat}'Plik ma zÂ³y format!',
     { meReportTemplateErr }'Error in Report Template!',
     { meUnicodeModeNotActivated } 'Unicode mode was not activated'
     );
@@ -4349,6 +4349,7 @@ finalization
   end;
   WPPrinterCanvas.Free;
   WPPrinterName := '';
+  elo elo 3 2 0
 
 end.
 
