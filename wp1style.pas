@@ -1,15 +1,4 @@
 unit WP1Style;
-{ -----------------------------------------------------------------------------
-  WPTools Version 4
-  WPStyles - Copyright (C) 2002 by wpcubed GmbH      -   Author: Julian Ziersch
-  info: http://www.wptools.de                         mailto:support@wptools.de
-  *****************************************************************************
-  This unit is used to edit one style.
-  -----------------------------------------------------------------------------
-  THIS CODE AND INFORMATION ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
-  KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-  IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE.
-  ----------------------------------------------------------------------------- }
 
 {$I WPINC.INC}
 
