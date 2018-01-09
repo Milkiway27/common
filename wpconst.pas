@@ -1,3 +1,4 @@
+ALA MA KOTAAAAA
 { Stringconst -	WPDEFS.RES
   Include file,	no pascal source! }
 
