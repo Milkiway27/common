@@ -2,25 +2,10 @@ ALA MA KOTAAAAA
 { Stringconst -	WPDEFS.RES
   Include file,	no pascal source! }
 
-
-{ ReportBuilder	uses numbers  43000 - 48599
-  Ace uses 56400 - 56499
-  WPTools uses 52000 - 53800 and 56600 - 57800
-  WP Form&Report uses 54500 - 54600 }
-
+  
+  kolejne zmiany które okazuja sie potrzebne
 const
 	//stałych tyle że za glowe sie można chwycic
-	//
-	//
-	//
-	//UDALO SIĘ!S
-	//
-	//
-	//
-	//
-	//
-	
-	//
     meWPLabels = 52000;	{ basis	of ALL TWPResLabel }
 
     meFilter	  = 56501;
