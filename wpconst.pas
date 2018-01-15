@@ -99,4 +99,7 @@ const
     glBrPortuguese = glDiff+1200; { Brazilian Portuguese }
     glDanish =	glDiff+1400;
     glCzech =	glDiff+1600;
+    
+    
+    //som changes from fotter
 
