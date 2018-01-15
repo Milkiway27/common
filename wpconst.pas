@@ -101,5 +101,5 @@ const
     glCzech =	glDiff+1600;
     
     
-    //som changes from fotter
+    //some changes from fotter
 
